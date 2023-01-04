@@ -12,3 +12,6 @@ test3.test3_func()
 test4.test4_func()
 
 print('Test Message: I put this here so I would need to do another commit and push')
+
+print('Test Message: Now this is made in test_branch1 before I do a merge')
+print('Test Message: Doing an amend before I merge test_branch1 with main')

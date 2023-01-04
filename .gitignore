@@ -1,0 +1,2 @@
+# Ignore an entire directory with a '/' at the end of the path
+__pycache__/

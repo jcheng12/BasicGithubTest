@@ -17,3 +17,5 @@ print('Test Message: Now this is made in test_branch1 before I do a merge')
 print('Test Message: Doing an amend before I merge test_branch1 with main')
 
 print('Test Message: Another update after the pull-request to main')
+
+print('Test Message: Now from GitSampleClone, hoping to push back to a local repo')

@@ -1,0 +1,3 @@
+[submodule "BasicGithubTestSubmodule"]
+	path = BasicGithubTestSubmodule
+	url = https://github.com/jcheng12/BasicGithubTestSubmodule.git
